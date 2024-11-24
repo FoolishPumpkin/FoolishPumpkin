@@ -8,12 +8,12 @@ This is a freshman majoring in computer science at NCU.
 - 🌱 I’m currently learning about python/c/html/css/(javascript/golang),and I will try to learn more about computer science.
 - Maybe I'm not strong enough now,but I will learn all the way.
 
-  <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FoolishPumpkin"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Gzzzxx&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FoolishPumpkin" />
 </picture>
 <picture>
   <source
